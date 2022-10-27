@@ -1,0 +1,1 @@
+# classInheritance5
